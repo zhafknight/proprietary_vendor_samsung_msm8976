@@ -92,6 +92,17 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/vendor/lib64/libsynaFpSensorTestNwd.so \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/ath10k/QCA6174/hw3.0/board-2.bin:system/vendor/firmware/ath10k/QCA6174/hw3.0/board-2.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/ath10k/QCA6174/hw3.0/board.bin:system/vendor/firmware/ath10k/QCA6174/hw3.0/board.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/ath10k/QCA6174/hw3.0/firmware-6.bin:system/vendor/firmware/ath10k/QCA6174/hw3.0/firmware-6.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/ath10k/QCA6174/hw3.0/firmware-sdio-6.bin:system/vendor/firmware/ath10k/QCA6174/hw3.0/firmware-sdio-6.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/nvm_00130300.bin:system/vendor/firmware/qca/nvm_00130300.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/nvm_00130302.bin:system/vendor/firmware/qca/nvm_00130302.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/nvm_00440302.bin:system/vendor/firmware/qca/nvm_00440302.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/rampatch_00130300.bin:system/vendor/firmware/qca/rampatch_00130300.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/rampatch_00130302.bin:system/vendor/firmware/qca/rampatch_00130302.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qca/rampatch_00440302.bin:system/vendor/firmware/qca/rampatch_00440302.bin \
+    vendor/samsung/msm8976-common/proprietary/vendor/firmware/qcom/venus-1.8/venus.mbn:system/vendor/firmware/qcom/venus-1.8/venus.mbn \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
