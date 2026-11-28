@@ -38,58 +38,58 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/etc/Handset_cal.acdb:system/etc/Handset_cal.acdb \
     vendor/samsung/msm8976-common/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/samsung/msm8976-common/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
-    vendor/samsung/msm8976-common/proprietary/etc/P08QL_s5k4h5yc_module_info.xml:system/etc/P08QL_s5k4h5yc_module_info.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/Q08QL_s5k4h5yc_module_info.xml:system/etc/Q08QL_s5k4h5yc_module_info.xml \
+    vendor/samsung/msm8976-common/proprietary/etc/P08QL_s5k4h5yc_module_info.xml:system/vendor/etc/P08QL_s5k4h5yc_module_info.xml \
+    vendor/samsung/msm8976-common/proprietary/etc/Q08QL_s5k4h5yc_module_info.xml:system/vendor/etc/Q08QL_s5k4h5yc_module_info.xml \
     vendor/samsung/msm8976-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/msm8976_camera_tabs2.xml:system/etc/camera/msm8976_camera_tabs2.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k4h5yc_dw9807_chromatix.xml:system/etc/camera/s5k4h5yc_dw9807_chromatix.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k6b2yx_chromatix.xml:system/etc/camera/s5k6b2yx_chromatix.xml \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30.bin:system/etc/firmware/bdwlan30.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30_R01.bin:system/etc/firmware/bdwlan30_R01.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/btfw32.tlv:system/etc/firmware/btfw32.tlv \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/btnv32.bin:system/etc/firmware/btnv32.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/etc/firmware/cpp_firmware_v1_10_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/etc/firmware/cpp_firmware_v1_5_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SE_BU24219.bin:system/etc/firmware/ois_SE_BU24219.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SP_BU24219.bin:system/etc/firmware/ois_SP_BU24219.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_VE_BU24219.bin:system/etc/firmware/ois_VE_BU24219.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/otp30.bin:system/etc/firmware/otp30.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/qwlan30.bin:system/etc/firmware/qwlan30.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/utf30.bin:system/etc/firmware/utf30.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/utfbd30.bin:system/etc/firmware/utfbd30.bin \
-    vendor/samsung/msm8976-common/proprietary/etc/firmware/utfbd30_R01.bin:system/etc/firmware/utfbd30_R01.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/camera/msm8976_camera_tabs2.xml:system/vendor/etc/camera/msm8976_camera_tabs2.xml \
+    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k4h5yc_dw9807_chromatix.xml:system/vendor/etc/camera/s5k4h5yc_dw9807_chromatix.xml \
+    vendor/samsung/msm8976-common/proprietary/etc/camera/s5k6b2yx_chromatix.xml:system/vendor/etc/camera/s5k6b2yx_chromatix.xml \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pfp.fw:system/vendor/firmware/a530_pfp.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/a530_pm4.fw:system/vendor/firmware/a530_pm4.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30.bin:system/vendor/firmware/bdwlan30.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/bdwlan30_R01.bin:system/vendor/firmware/bdwlan30_R01.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/btfw32.tlv:system/vendor/firmware/btfw32.tlv \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/btnv32.bin:system/vendor/firmware/btnv32.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/vendor/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/vendor/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/vendor/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SE_BU24219.bin:system/vendor/firmware/ois_SE_BU24219.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_SP_BU24219.bin:system/vendor/firmware/ois_SP_BU24219.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/ois_VE_BU24219.bin:system/vendor/firmware/ois_VE_BU24219.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/otp30.bin:system/vendor/firmware/otp30.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/qwlan30.bin:system/vendor/firmware/qwlan30.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/utf30.bin:system/vendor/firmware/utf30.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/utfbd30.bin:system/vendor/firmware/utfbd30.bin \
+    vendor/samsung/msm8976-common/proprietary/etc/firmware/utfbd30_R01.bin:system/vendor/firmware/utfbd30_R01.bin \
     vendor/samsung/msm8976-common/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
     vendor/samsung/msm8976-common/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/samsung/msm8976-common/proprietary/etc/permissions/izat.xt.srv.xml:system/etc/permissions/izat.xt.srv.xml \
     vendor/samsung/msm8976-common/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
     vendor/samsung/msm8976-common/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
-    vendor/samsung/msm8976-common/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libalawb_algo.so:system/lib/libalawb_algo.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libOmxVpp.so:system/vendor/lib/libOmxVpp.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libalawb_algo.so:system/vendor/lib/libalawb_algo.so \
     vendor/samsung/msm8976-common/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libsblcv.so:system/lib/libsblcv.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so:system/lib/libsynaFpSensorTestNwd.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libbauthserver.so:system/vendor/lib/libbauthserver.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libbauthtzcommon.so:system/vendor/lib/libbauthtzcommon.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/vendor/lib/libegis_fp_normal_sensor_test.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libsblcv.so:system/vendor/lib/libsblcv.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so:system/vendor/lib/libsynaFpSensorTestNwd.so \
+    vendor/samsung/msm8976-common/proprietary/lib/libvpplibrary.so:system/vendor/lib/libvpplibrary.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/hw/gps.default.so:system/vendor/lib64/hw/gps.default.so \
     vendor/samsung/msm8976-common/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libbauthserver.so:system/lib64/libbauthserver.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libbauthtzcommon.so:system/lib64/libbauthtzcommon.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:system/lib64/libegis_fp_normal_sensor_test.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
-    vendor/samsung/msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/lib64/libsynaFpSensorTestNwd.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libbauthserver.so:system/vendor/lib64/libbauthserver.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libbauthtzcommon.so:system/vendor/lib64/libbauthtzcommon.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libegis_fp_normal_sensor_test.so:system/vendor/lib64/libegis_fp_normal_sensor_test.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libgps.utils.so:system/vendor/lib64/libgps.utils.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libloc_core.so:system/vendor/lib64/libloc_core.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libloc_ds_api.so:system/vendor/lib64/libloc_ds_api.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libloc_eng.so:system/vendor/lib64/libloc_eng.so \
+    vendor/samsung/msm8976-common/proprietary/lib64/libsynaFpSensorTestNwd.so:system/vendor/lib64/libsynaFpSensorTestNwd.so \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/samsung/msm8976-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/msm8976-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
