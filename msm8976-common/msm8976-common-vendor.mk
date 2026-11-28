@@ -77,10 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/lib/libbauthserver.so:system/lib/libbauthserver.so \
     vendor/samsung/msm8976-common/proprietary/lib/libbauthtzcommon.so:system/lib/libbauthtzcommon.so \
     vendor/samsung/msm8976-common/proprietary/lib/libegis_fp_normal_sensor_test.so:system/lib/libegis_fp_normal_sensor_test.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
-    vendor/samsung/msm8976-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/samsung/msm8976-common/proprietary/lib/libsblcv.so:system/lib/libsblcv.so \
     vendor/samsung/msm8976-common/proprietary/lib/libsynaFpSensorTestNwd.so:system/lib/libsynaFpSensorTestNwd.so \
     vendor/samsung/msm8976-common/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
