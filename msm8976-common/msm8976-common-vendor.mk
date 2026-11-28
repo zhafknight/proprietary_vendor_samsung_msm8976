@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8976-common/proprietary/etc/permissions/izat.xt.srv.xml:system/etc/permissions/izat.xt.srv.xml \
     vendor/samsung/msm8976-common/proprietary/framework/com.qti.location.sdk.jar:system/framework/com.qti.location.sdk.jar \
     vendor/samsung/msm8976-common/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
-    vendor/samsung/msm8976-common/proprietary/lib/hw/camera.vendor.msm8952.so:system/lib/hw/camera.vendor.msm8952.so \
     vendor/samsung/msm8976-common/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/samsung/msm8976-common/proprietary/lib/libalawb_algo.so:system/lib/libalawb_algo.so \
     vendor/samsung/msm8976-common/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
